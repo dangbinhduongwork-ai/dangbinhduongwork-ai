@@ -23,3 +23,9 @@ Tôi chuyên xây dựng và phát triển các dự án phần mềm và ứng 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangbinhduongwork-ai&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dangbinhduongwork-ai&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dangbinhduongwork-ai&theme=github_dark)
+### 🤝 Kết nối với tôi
+![Profile Views](https://komarev.com/ghpvc/?username=dangbinhduongwork-ai&color=blue&style=for-the-badge&label=LƯỢT+XEM+HỒ+SƠ)
+
+[![Website](https://img.shields.io/badge/Website-dangbinhduong.io.vn-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dangbinhduong.io.vn)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/angduong.344603?locale=vi_VN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dangbinhduong.work@gmail.com)
