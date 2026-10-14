@@ -8,4 +8,4 @@ Tôi chuyên xây dựng và phát triển các dự án phần mềm và ứng 
 
 ### Huy hiệu
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TEN_USER_GITHUB_CUA_BAN&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dangbinhduongwork-ai&theme=dark&hide_border=true)](https://git.io/streak-stats)
