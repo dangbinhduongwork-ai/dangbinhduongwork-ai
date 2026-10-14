@@ -1,4 +1,4 @@
-# Xin chào 👋 Tôi tên Đặng Bình Dương
+# HI! I'm Dang Binh Duong
 
 Tôi chuyên xây dựng và phát triển các dự án phần mềm và ứng dụng cá nhân/chuyên nghiệp. 
 
