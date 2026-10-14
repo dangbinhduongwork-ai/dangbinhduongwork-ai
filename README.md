@@ -15,9 +15,9 @@ Tôi chuyên xây dựng và phát triển các dự án phần mềm và ứng 
 ---
 
 ### 🏆 Danh hiệu GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=TÊN_USER_CỦA_BẠN&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dangbinhduongwork-aitheme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📈 Biểu đồ hoạt động
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TÊN_USER_CỦA_BẠN&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dangbinhduongwork-aiN&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
