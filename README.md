@@ -35,4 +35,4 @@ Tôi chuyên xây dựng và phát triển các dự án phần mềm và ứng 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/angduong.344603?locale=vi_VN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dangbinhduong.work@gmail.com)
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdangbinhduongwork-ai&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=L%C6%AF%E1%BB%A2T+XEM+H%E1%BB%92+S%C6%A0&edge_flat=false)](https://github.com/dangbinhduongwork-ai)
+![Profile Views](https://komarev.com/ghpvc/?username=dangbinhduongwork-ai&color=0e75b6&style=for-the-badge&label=LUOT+XEM+HO+SO)
