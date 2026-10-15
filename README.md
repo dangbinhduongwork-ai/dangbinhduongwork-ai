@@ -1,4 +1,4 @@
-# Xin chào 👋 Mình là Đặng Bình Dương (Dang Binh Duong)
+# Hi! I'm Dang Binh Duong
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&vCenter=true&width=550&lines=Ch%C3%A0o+m%E1%BB%ABng+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+GitHub+c%E1%BB%A7a+m%C3%ACnh!;Full-stack+%26+Mobile+App+Developer;Lu%C3%B4n+s%E1%BA%B5n+s%C3%A0ng+h%E1%BB%8Dc+h%E1%BB%8Fi+c%C3%B4ng+ngh%E1%BB%87+m%E1%BB%9Bi)](https://git.io/typing-svg)
 
