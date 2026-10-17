@@ -4,19 +4,19 @@
 
 Tôi chuyên xây dựng và phát triển các dự án phần mềm và ứng dụng cá nhân/chuyên nghiệp. 
 
-- 🌎 Tôi hiện đang sinh sống tại Việt Nam.
-- 🖥️ Xem danh mục tác phẩm của tôi tại [dangbinhduong.io.vn](https://dangbinhduong.io.vn)
-- 🤝 Tôi sẵn sàng hợp tác trong các dự án thú vị.
+-  Tôi hiện đang sinh sống tại Việt Nam.
+-  Xem danh mục tác phẩm của tôi tại [dangbinhduong.io.vn](https://dangbinhduong.io.vn)
+-  Tôi sẵn sàng hợp tác trong các dự án thú vị.
 
 ---
 
-### 🛠️ Công nghệ & Công cụ sử dụng
+###  Công nghệ & Công cụ sử dụng
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,androidstudio,kotlin,python,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
-### ⚡ Thống kê & Hoạt động GitHub
+###  Thống kê & Hoạt động GitHub
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dangbinhduongwork-ai&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
@@ -29,7 +29,7 @@ Tôi chuyên xây dựng và phát triển các dự án phần mềm và ứng 
 
 ---
 
-### 🤝 Kết nối với tôi
+###  Kết nối với tôi
 
 [![Website](https://img.shields.io/badge/Website-dangbinhduong.io.vn-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dangbinhduong.io.vn)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/angduong.344603?locale=vi_VN)
